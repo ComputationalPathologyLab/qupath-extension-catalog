@@ -9,8 +9,8 @@
       "homepage": "https://github.com/ComputationalPathologyLab/VeSpA",
       "releases": [
         {
-          "name": "v0.0.1",
-          "main_url": "https://github.com/ComputationalPathologyLab/VeSpA/releases/download/v0.0.1/qupath-extension-vessel-segmentation-1-0.0.1.jar",
+          "name": "v0.1.0",
+          "main_url": "https://github.com/ComputationalPathologyLab/VeSpA/releases/download/v0.1.0/qupath-extension-vespa-0.1.0.jar",
           "version_range": {
             "min": "v0.6.0"
           }

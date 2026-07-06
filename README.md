@@ -51,7 +51,7 @@ Once the catalog has been added, VeSpA should appear in the QuPath Extension Man
 
 - **Installation fails or no version is available**
   - The catalog entry depends on GitHub Releases hosting the installable JAR.
-  - If no compatible release has been published yet, QuPath may show the extension entry without a working downloadable artifact.
+  - Confirm that the expected release asset is still available if installation fails unexpectedly.
 
 - **QuPath reports a compatibility issue**
   - Confirm the QuPath version meets the extension requirements.
