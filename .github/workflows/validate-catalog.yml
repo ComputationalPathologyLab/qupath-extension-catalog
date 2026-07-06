@@ -1,0 +1,31 @@
+name: Validate catalog
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Validate JSON syntax
+        run: python -m json.tool catalog.json > /dev/null
+
+      - name: Install QuPath catalog model
+        run: python -m pip install extension-catalog-model
+
+      - name: Validate against catalog model
+        run: |
+          python - <<'PY'
+          from extension_catalog_model import Catalog
+          Catalog.parse_file('catalog.json')
+          print('Catalog validation passed')
+          PY

@@ -1,0 +1,21 @@
+{
+  "name": "ComputationalPathologyLab QuPath Catalog",
+  "description": "Custom QuPath extension catalog for ComputationalPathologyLab extensions.",
+  "extensions": [
+    {
+      "name": "VeSpA",
+      "description": "A QuPath extension for automatic vessel segmentation and morphometric quantification in whole-slide images.",
+      "author": "ComputationalPathologyLab",
+      "homepage": "https://github.com/ComputationalPathologyLab/VeSpA",
+      "releases": [
+        {
+          "name": "v0.0.1",
+          "main_url": "https://github.com/ComputationalPathologyLab/VeSpA/releases/download/v0.0.1/qupath-extension-vessel-segmentation-1-0.0.1.jar",
+          "version_range": {
+            "min": "v0.6.0"
+          }
+        }
+      ]
+    }
+  ]
+}
