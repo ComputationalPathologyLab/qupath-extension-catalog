@@ -18,8 +18,7 @@ https://raw.githubusercontent.com/ComputationalPathologyLab/qupath-extension-cat
 
 ### VeSpA
 
-- Extension repository: <https://github.com/ComputationalPathologyLab/VeSpA>
-- Related VeSpA project repository: <https://github.com/ComputationalPathologyLab/VeSpA>
+- Repository: <https://github.com/ComputationalPathologyLab/VeSpA>
 
 VeSpA supports vessel segmentation inside QuPath with annotation-based, TMA-core, and whole-image workflows, along with morphometric measurement import and configurable preprocessing.
 
