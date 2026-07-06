@@ -1,4 +1,21 @@
-# ComputationalPathologyLab QuPath Extension Catalog
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ComputationalPathologyLab/VeSpA/main/src/main/resources/images/vespa_logo.png" width="160" alt="VeSpA logo"/>
+</p>
+
+<h1 align="center">ComputationalPathologyLab QuPath Extension Catalog</h1>
+
+<p align="center">
+  <em>Custom QuPath catalog distribution for ComputationalPathologyLab extensions, including VeSpA</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QuPath-catalog-1a6e8e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/extensions-VeSpA-f2c14e?style=flat-square"/>
+  <img src="https://img.shields.io/badge/status-active-3ba07a?style=flat-square"/>
+  <a href="https://doi.org/10.64898/2026.06.15.732366"><img src="https://img.shields.io/badge/DOI-10.64898%2F2026.06.15.732366-2f6db3?style=flat-square" alt="DOI"/></a>
+</p>
+
+---
 
 This repository provides a custom QuPath extension catalog for extensions maintained by **ComputationalPathologyLab**.
 
