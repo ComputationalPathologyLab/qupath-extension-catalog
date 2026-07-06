@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ComputationalPathologyLab/VeSpA/main/src/main/resources/images/vespa_logo.png" width="160" alt="VeSpA logo"/>
 </p>
 
-<h1 align="center">ComputationalPathologyLab QuPath Extension Catalog</h1>
+<h1 align="center">QuPath Extension Catalog</h1>
 
 <p align="center">
   <em>Custom QuPath catalog distribution for ComputationalPathologyLab extensions, including VeSpA</em>
