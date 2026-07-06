@@ -68,3 +68,34 @@ To add another ComputationalPathologyLab extension in the future:
 - VeSpA repository: <https://github.com/ComputationalPathologyLab/VeSpA>
 - QuPath extension documentation: <https://qupath.readthedocs.io/en/latest/docs/intro/extensions.html>
 - QuPath extension catalog model: <https://github.com/qupath/extension-catalog-model>
+
+
+---
+
+## Citation
+
+If you use **VeSpA** through this QuPath extension catalog, please cite the VeSpA preprint:
+
+**Grion G, Hussain R, Colella FE, Roufail K, Uccella S, Frapolli R, Matteo C, Mintemur O, Pennati F, Renne SL.** *Vessel Spatial Analysis (VeSpA): a tool for whole slide image segmentation, morphometry, and QuPath extension.* bioRxiv. 2026. DOI: [10.64898/2026.06.15.732366](https://doi.org/10.64898/2026.06.15.732366)
+
+Preprint:
+- <https://www.biorxiv.org/content/10.64898/2026.06.15.732366v1>
+
+### BibTeX
+
+```bibtex
+@article{grion2026vespa,
+  title   = {Vessel Spatial Analysis (VeSpA): a tool for whole slide image segmentation, morphometry, and QuPath extension},
+  author  = {Grion, Giulia and Hussain, Rash and Colella, Filippo Emanuele and Roufail, Kirollos and Uccella, Silvia and Frapolli, Roberta and Matteo, Cristina and Mintemur, {"O}mer and Pennati, Francesca and Renne, Salvatore Lorenzo},
+  journal = {bioRxiv},
+  year    = {2026},
+  doi     = {10.64898/2026.06.15.732366},
+  url     = {https://www.biorxiv.org/content/10.64898/2026.06.15.732366v1}
+}
+```
+
+### DOI
+
+```text
+10.64898/2026.06.15.732366
+```
